@@ -1,8 +1,0 @@
-[2020-02-19 17:28:17.765] [sharedprocess] [info] main {"machineId":"43be73ac5d8edf172888cdae86c99b1fcfbbd3452916847b5efda566256f52e3","windowId":2}
-[2020-02-19 17:28:57.742] [sharedprocess] [info] Starting to clean up unused language packs.
-[2020-02-19 17:32:33.268] [sharedprocess] [info] Installing extension: sdras.night-owl
-[2020-02-19 17:32:41.102] [sharedprocess] [info] Downloaded extension: sdras.night-owl /tmp/b0db9046-3485-477d-aaed-f9bb2f87f86e
-[2020-02-19 17:32:41.348] [sharedprocess] [info] Extracted extension to /home/asif/.vscode/extensions/.sdras.night-owl-1.1.3: sdras.night-owl
-[2020-02-19 17:32:41.348] [sharedprocess] [info] Renamed to /home/asif/.vscode/extensions/sdras.night-owl-1.1.3
-[2020-02-19 17:32:41.350] [sharedprocess] [info] Installation completed. sdras.night-owl
-[2020-02-19 17:32:41.402] [sharedprocess] [info] Extensions installed successfully: sdras.night-owl
